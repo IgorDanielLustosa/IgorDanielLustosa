@@ -1,12 +1,12 @@
 ### Igor Daniel A. Lustosa
 
 - 🔭 Me tornando um desenvolvedor Full Stack!
-- 🌱 Focado meus estudos em JavaScript
+- 🌱 Focando meus estudos em JavaScript
 
 <div> 
   <a href="https://github.com/IgorDanielLustosa">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=igordaniellustosa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igordaniellustosa&layout=compact&langs_count=7&theme=dark"/>
+  <img height="125em" src="https://github-readme-stats.vercel.app/api?username=igordaniellustosa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="125em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igordaniellustosa&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
   <div style="display: inline_block"><br>
