@@ -16,7 +16,7 @@
     <img align="center" alt="Lustosa-MYSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
     <img align="center" alt="Lustosa-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
     <img align="center" alt="Lustosa-PYTHON" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
-    <img align="center" alt="Lustosa-JAVA" height="30" width="40" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)" />
+    <img align="center" alt="Lustosa-JAVA" height="30" width="40" src="https://img.shields.io/badge/Java-ED8B00?style=for-the badge&logo=openjdk&logoColor=white" />
 
 
 
