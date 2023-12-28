@@ -1,7 +1,7 @@
 ### Igor Daniel A. Lustosa
 
 - 🔭 Me tornando um desenvolvedor Full Stack!
-- 🌱 Focando meus estudos em JavaScript
+- 🌱 Focando meus estudos em Java
 
 <div> 
   <a href="https://github.com/IgorDanielLustosa">
