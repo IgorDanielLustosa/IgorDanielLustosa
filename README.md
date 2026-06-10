@@ -3,7 +3,7 @@
 <h3 align="center">Desenvolvedor Backend | Java • Spring Boot • PostgreSQL • Docker</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7A800&center=true&vCenter=true&width=500&lines=Backend+Developer;Java+%7C+Spring+Boot+%7C+PostgreSQL;Trilhando+o+caminho+para+Arquiteto+de+Software" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7A800&center=true&vCenter=true&width=600&lines=Backend+Developer;Java+%7C+Spring+Boot+%7C+PostgreSQL;Trilhando+o+caminho+para+Arquiteto+de+Software" alt="Typing SVG" />
 </p>
 
 ---
@@ -52,14 +52,6 @@
 ---
 
 ### 🗺️ Trilha de Evolução
-
-```
-✅ PHP • HTML • CSS • JavaScript • React
-🔄 Java (em andamento — Head First Java)
-⏳ Spring Boot → PostgreSQL → Docker → AWS
-⏳ Kubernetes → Microsserviços → Kafka
-🎯 Meta: Especialista / Arquiteto de Software
-```
 
 ---
 
