@@ -53,6 +53,12 @@
 
 ### 🗺️ Trilha de Evolução
 
+✅ PHP • HTML • CSS • JavaScript • React<br>
+🔄 Java (em andamento — Head First Java)<br>
+⏳ Spring Boot → PostgreSQL → Docker → AWS<br>
+⏳ Kubernetes → Microsserviços → Kafka<br>
+🎯 Meta: Especialista / Arquiteto de Software
+
 ---
 
 ### 📫 Contato
