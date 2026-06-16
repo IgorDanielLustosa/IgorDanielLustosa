@@ -14,7 +14,7 @@
 - 📚 Estudando: **Java • Spring Boot • PostgreSQL • Docker • AWS**
 - 💼 Experiência com: PHP, Python, JavaScript, React, infraestrutura TI
 - 🏢 Trabalhei em empresas de **Portugal e Brasil**
-- 🎓 Cursando **Engenharia de Software**
+- 🎓 Cursando **Análise e Desenvolvimento de Sistemas**
 - 📍 Brasília-DF, Brasil
 - 🌐 Aberto a oportunidades **remotas**
 
